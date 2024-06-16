@@ -23,5 +23,3 @@ This project is a simple bookstore web application built with Java Spring Boot. 
 - Bootstrap: Frontend framework for designing responsive and mobile-first websites.
 
 - MySQL Database: Relational database management system for storing book information.
-
-- Bootstrap: Frontend framework for designing responsive and mobile-first websites.
