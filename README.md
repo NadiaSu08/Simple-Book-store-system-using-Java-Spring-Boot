@@ -1,6 +1,5 @@
 # Simple-Book-store-system-using-Java-Spring-Boot
 
-Simple Bookstore Application : Bookworm's Paradise
 This project is a simple bookstore web application built with Java Spring Boot. It allows users to perform CRUD (Create, Read, Update, Delete) operations on books, demonstrating fundamental concepts of web development with Spring Boot and Thymeleaf templating.
 
 Features:
